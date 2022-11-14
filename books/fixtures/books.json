@@ -1,0 +1,45 @@
+[{
+        "model": "books.book",
+        "pk": "0f5cb3b3-2399-4cc6-985f-0f69af7ebb75",
+        "fields": {
+            "title": "to kill a mockingbird",
+            "author": "harper lee",
+            "price": "8.96",
+            "date_publication": "1960-07-11",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "3ad3f717-32e8-4532-9aaf-010db5f08d75",
+        "fields": {
+            "title": "hunger games",
+            "author": "suzanne collins",
+            "price": "8.79",
+            "date_publication": "2009-09-14",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "d4053ac8-bcdc-4892-85dc-1dc20abf8f64",
+        "fields": {
+            "title": "percy jackson",
+            "author": "Eoin Colfer",
+            "price": "7.19",
+            "date_publication": "2005-06-28",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "e6ab6767-e4e8-4352-967a-5c04bb6461d4",
+        "fields": {
+            "title": "Python Cookbook",
+            "author": "kristine",
+            "price": "7.80",
+            "date_publication": "2022-11-13",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
